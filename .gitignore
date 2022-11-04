@@ -1,0 +1,4 @@
+.env
+.mpjrc
+tmp
+node_modules
