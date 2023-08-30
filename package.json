@@ -29,7 +29,7 @@
     "ip": "^1.1.8",
     "livereload": "^0.9.3",
     "longjohn": "^0.2.12",
-    "mongodb": "^4.16.0",
+    "mongodb": "^4.17.0",
     "morgan": "^1.10.0",
     "munia": "^0.0.1-alpha.20",
     "nodemailer": "^6.9.3",
